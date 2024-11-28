@@ -3,3 +3,7 @@ node_modules
 amplify_outputs.json
 amplify/.DS_Store
 
+
+# amplify
+amplify_outputs*
+amplifyconfiguration*

@@ -93,12 +93,12 @@ export const CommentForm = ({
 
       Format your response as follows:
 
-      📚 Summary:
+      🤗 Summary:
       [Provide a concise summary of the overall sentiment and main points]
 
-      ⭐️ Overall Score : [_/5]
+      🤗 Overall Score : [_/5]
 
-      💫 Key Reason:
+      🤗 Key Reason:
       [Main reason for the score]`;
 
       const response = await askBedrock(prompt);
