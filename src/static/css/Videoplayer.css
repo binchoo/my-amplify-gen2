@@ -1,0 +1,71 @@
+.player-wrapper {
+  position: relative;
+  padding-top: 1;
+  margin-top: 10px;
+}
+
+.react-player {
+  margin-top: 10px;
+}
+
+body {
+  margin: 0;
+  background-color: white;
+}
+
+div>h2 {
+  color: black;
+  font-family: "Poppins", sans-serif;
+  font-size: 40px;
+  font-weight: 800;
+  line-height: 72px;
+  margin-left: 0%;
+  text-align: left;
+  text-transform: uppercase;
+  display: inline;
+}
+
+div>h3 {
+  color: black;
+  font-family: "Poppins", sans-serif;
+  font-size: 1.5em;
+  font-weight: 400;
+  line-height: 5px;
+  margin-left: 0%;
+  text-align: left;
+  text-transform: uppercase;
+}
+
+video {
+  width: 60%;
+  height: 60%;
+  object-fit: 100%;
+  padding: 0;
+  margin: 0;
+}
+
+.bita-control {
+  margin-top: 10px;
+}
+
+.bita-control>div {
+  display: inline;
+  margin-left: 10px;
+  text-align: center;
+}
+
+.bita-control>.title {
+  font-weight: bold;
+}
+
+.divide-video {
+  margin-top: 10px;
+  width: 800px;
+  height: 1px;
+  color: #282c34;
+  background-color: #282c34;
+}
+
+.video-explain {
+  margin-bottom: 3%;
+}
